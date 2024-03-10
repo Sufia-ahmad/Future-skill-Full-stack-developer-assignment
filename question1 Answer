@@ -1,0 +1,1 @@
+The relationship between the "Product" and "Product_Category" entities appears to be a many-to-one relationship, where many products can belong to one product category. This is indicated by the "category_id" field in the "Product" entity, which serves as a foreign key referencing the primary key "id" in the "Product_Category" entity
